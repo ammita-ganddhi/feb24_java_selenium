@@ -1,0 +1,6 @@
+1. Create file "Assignment_Push from local-remote.txt" on working repository
+2. Save and open create bash here and, perform below commands
+3. git add .
+4. git status
+5. git commit -m "mycommit"
+6. git push
