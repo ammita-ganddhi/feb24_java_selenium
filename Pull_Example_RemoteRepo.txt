@@ -1,0 +1,2 @@
+This is an example of Pull command. 
+Pull is the combination of Fetch & Merge commands
